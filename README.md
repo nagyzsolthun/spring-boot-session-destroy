@@ -2,7 +2,7 @@
 
 Usage: send in a http GET request to ```/hello```
 
-## 1. excepted behavior after session timeout (10 seconds):
+## 1. expected behavior after session timeout (10 seconds):
 
 #### 1.1 logs
 ```
